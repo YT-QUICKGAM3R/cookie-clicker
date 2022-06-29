@@ -1,0 +1,4 @@
+username:password:cookie_bal:cookie_per_sec:gran:farm:mine:factory:bank:pre_save
+JacobC:qwerty1234:21:3:2:0:0:0:0:0
+AdeleB:123456:0:1:0:0:0:0:0:0
+JacobCook:Hacker1234:0:1:0:0:0:0:0:0
